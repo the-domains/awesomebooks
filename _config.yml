@@ -1,0 +1,14 @@
+layout_spectrum: 0.3480595601722598
+typography_spectrum: 0.508029155433178
+color:
+  brandStrength: 0.8067491152323782
+  lightness: 0.7960401729214936
+  saturation: 0.746821528300643
+  rhythmicContrast: 0.2197679008822888
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: awesomebooks
